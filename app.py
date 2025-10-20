@@ -16,6 +16,8 @@ def main():
         run_eda()
     elif choice == menu[2]:   
         run_ml()
+        # 파일 구조가 아래처럼 되어있는지 확인
+
 
 if __name__ == '__main__':
     main()
